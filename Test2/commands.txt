@@ -1,0 +1,39 @@
+1  mkdir ~/Desktop/Test2
+    2  touch ~/Desktop/Test2/commands.txt
+    3  git clone https://github.com/josephbondoc/gitTest2526.git
+    4  git clone https://github.com/josephbondoc/gitTest2526.git ~/Desktop
+    5  git clone "https://github.com/josephbondoc/gitTest2526.git" ~/Desktop
+    6  pwd
+    7  ls
+    8  cd desktop
+    9  cd test2
+   10  ./
+   11  cd ./
+   12  pwd
+   13  cd /
+   14  cd desktop
+   15  pwd
+   16  ls
+   17  cd users
+   18  cd desktop
+   19  ls
+   20  pwd
+   21  cd desktop
+   22  git clone "https://github.com/josephbondoc/gitTest2526.git"
+   23  mv ~/Desktop/Test2 ~/Desktop/gitTest2526
+   24  git commit -m "added test2"
+   25  cd gittest2526
+   26  git commit -m "added test2"
+   27  git add
+   28  git add ~/Desktop/gitTest2526/Test2
+   29  git commit -m "added Test2"
+   30  git push origin master
+   31  pwd
+   32  nano repo.txt
+   33  git add repo.txt
+   34  git commit -m "added repo.txt"
+   35  git push origin master
+   36  nano index.html
+   37  git add index.html
+   38  git commit -m "added index.html"
+   39  git push origin master
